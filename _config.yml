@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Jiawei Gao"
-keywords:    "Jiawei Gao, ucsd"
+title:       "Riddhi Pandya"
+keywords:    "riddhi pandya"
 description: "homepage"
-source_link: "http://jiaweigao.github.io"
+source_link: "http://rids.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: 
